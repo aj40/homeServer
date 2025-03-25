@@ -34,6 +34,7 @@ Standard ProxMox install using [this link.](https://pve.proxmox.com/wiki/Install
 Using [Dockge](https://tteck.github.io/Proxmox/#dockge-lxc) 6Gb RAM, 16Gb Disk, 4 cores
 
 ### Custom Firmware for the Disc Drive
+Using [this guide.](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634#:~:text=BP50NB40%20to%20%3E%20BP50NB40,%22%20after%20rawflash)
 
 
 
