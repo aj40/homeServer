@@ -19,6 +19,7 @@ Here's some videos and guides that helped me:
 - [Jellyfin Intel Hardware Acceleration on an LXC container](https://jellyfin.org/docs/general/administration/hardware-acceleration/intel)
 - [Immich Hardware Acceleration](https://immich.app/docs/features/hardware-transcoding)
 - [Hardware Haven - ARM in Proxmox](https://www.youtube.com/watch?v=wPWx6GISIhY)
+- [Potentially useful scripts](https://community-scripts.github.io/ProxmoxVE/)
 
 ### ProxMox
 Standard ProxMox install using [this link.](https://pve.proxmox.com/wiki/Installation)
